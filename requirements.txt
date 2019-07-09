@@ -1,1 +1,2 @@
 pillow==5.*
+mobilechelonian==0.5
